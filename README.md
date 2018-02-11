@@ -1,2 +1,3 @@
 # tienst
-playing with python
+placeholder for my project
+change to practice more with python
